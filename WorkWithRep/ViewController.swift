@@ -17,5 +17,8 @@ class ViewController: UIViewController {
     func someMethod() {
         
     }
+    func someMethodTwo() {
+        
+    }
 }
 
